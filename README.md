@@ -2,5 +2,5 @@
 Une demo de git qui se passe bien
 
 Et maintenant on modifie depuis github
-mais aussi depuis ma machine
+mais aussi depuis ma machine et c'est cool
 
